@@ -13,7 +13,7 @@ The loop starts at 1 and increases by 2 each iteration, efficiently generating o
 - Producing **formatted output** in a single line
 
 ## 🗂️ Files
-- `index.php` — main script that outputs odd numbers from 1 to 100.
+- `OddNumbers.php` — main script that outputs odd numbers from 1 to 100.
 
 ## 🧩 Core Logic
 ```php
