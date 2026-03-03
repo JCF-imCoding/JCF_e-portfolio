@@ -1,5 +1,5 @@
 # JCF_e-portfolio
-# José R. Castillo‑Flores – E‑Portfolio
+# Jose R. Castillo‑Flores – E‑Portfolio
 
 Welcome to my e‑portfolio. This page highlights the programming projects and coursework I have completed during my time in school. It also includes a summary of my Agile/Scrum experience from my Agile Management class.
 
