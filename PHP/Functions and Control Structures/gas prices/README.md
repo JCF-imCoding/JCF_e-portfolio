@@ -13,7 +13,7 @@ This exercise converts a **nested `if`** structure into a **compound conditional
 - Embedding PHP inside a basic XHTML/HTML page.
 
 ## 🗂️ Files
-- `index.php` — main script that displays the current gas price and evaluates the condition.
+- `GasPrices.php` — main script that displays the current gas price and evaluates the condition.
 
 ## 🧩 Core Logic (Compound Conditional)
 ```php
